@@ -50,11 +50,6 @@ To run tests, run the following command
 ```
 
 
-## Authors
-
-- [@yogesh16](https://www.github.com/yogesh16)
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
