@@ -19,7 +19,7 @@ This project includes
 Clone the project
 
 ```bash
-  git clone https://github.com/yogesh16/Laravel-API-TDD.git
+  git clone https://github.com/mrrbt12/Laravel-API-TDD.git
 ```
 
 Go to the project directory
